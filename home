@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="Visited_countries_Botev_style.css">
+<title>Пътешественически дневник</title>
+</head>
+<body>
+   
+      <img src="logo_traveller1-removebg-preview.png" alt="logo_traveller">
+      <h1>Пътешественически дневник на Деян Ботев</h1>
+<nav>
+   <a href="Visited_countries_Botev.html">Начало</a>
+   <a href="Visited_countries_so_far.html">Посетени държави</a>
+   <a href="survey.html">Анкета</a>
+   <a href="contacts.html">Контакти</a>
+</nav>
+   
+<section>
+   <p>Пътуванията безспорно са моята страст! Те са моето разлечение, но и нещото, което най-истински ме зарежда. Това е мястото, където ще споделя своите преживявания и емоциите от пътувания във всички държави, които съм посетил до момента.</p>
+   </p>
+</section>
+<section>
+   <article>
+   <img src="khai-niem-travel.jpg" style="width:50.2%">
+</article>
+<article>
+   <img src="travel-quotes.jpg" style="width:82%">
+</article>
+<article>
+   <img src="boarding_plane.jpg" style="width:74.5%">
+</article>
+</section>
+     
+
+<!--section>
+  <article>
+     <h2>Рила</h2>
+     <img src="rila.jpg" alt="rila">
+     <p><span>Рѝла </span>е най-високата планина в България и на Балканския полуостров. Намира се в югозападната част на страната, и по-точно в северозападния край на Рило-Родопския планински масив. Най-високият връх на планината – Мусала̀, със своите 2925,2 m е и най-високият на Балканския полуостров и цяла Източна Европа.</p>
+    </article>
+  <article class="middle">
+     <h2>Пирин</h2>
+     <img src="pirin.JPG" alt="pirin">
+     <p><span>Пирин планина </span>се намира в югозападната част на България и е в общ масив с Рила и Родопите. За разлика от Стара планина например, която се простира от запад на изток през цяла България, Пирин е малка, компактна. Тя заема 2585 квадратни километра територия, която обаче е със силно нагънат релеф – с многобройни стръмни върхове, отвесни пропасти, дълбоки долини.</p>
+  </article>
+  <article>
+     <h2>Родопи</h2>
+     <img src="rodopi.jpg" alt="rodopi">
+     <p><span>Родопите </span>е планина в Южна България и Северна Гърция, част от Рило-Родопския масив. Тя е най-обширната планина в България и заема около една седма част от българската територия. Дължината ѝ е около 220 – 240 km, а ширината до 100 km. </p>
+  </article> 
+</section-->
+</body>
+</html>
